@@ -1,0 +1,41 @@
+﻿<Window x:Class="Photos_comparator.Windows.User.SearchInDatabaseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Photos_comparator.Windows.User"
+        mc:Ignorable="d"
+         Title="Поиск в базе данных" Height="400" Width="500" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                <GradientStop Color="#353835" Offset="0"/>
+                <GradientStop Color="#0DAFB5" Offset="0.5" />
+                <GradientStop Color="#5A5E64" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button Name="GoBackButton" Grid.Column="1" Content="На главную" Height="50" Width="150" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="4,9,9,13" Click="GoBackButton_Click"/>
+
+        <Label Grid.Row="1" Content="Выберите искомую картинку:" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Button Grid.Row="1" Name="SelectPhotoButton" Grid.Column="1" Margin="4" Content="Обзор..." VerticalAlignment="Center" HorizontalAlignment="Left" Width="100" Height="30" Click="SelectPhotoButton_Click"/>
+        <CheckBox Grid.Row="1" Name="ImageTextBox" IsEnabled="False" Grid.Column="1" Height="25" Width="25" Margin="0,15,10,0" IsChecked="False"/>
+
+        <Label Grid.Row="2" Content="Выберите категорию:" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+        <ComboBox Grid.Row="2" Name="CategoryComboBox" Grid.Column="1" Width="Auto" Height="30" MaxWidth="200" SelectedIndex="0" HorizontalAlignment="Left"/>
+
+        <Button Grid.Row="3" Name="SearchPhotoButton" Grid.ColumnSpan="2" Content="Поиск" VerticalAlignment="Top" Margin="4" HorizontalAlignment="Center" Width="180" Height="50" Click="SearchPhotoButton_ClickAsync" />
+
+    </Grid>
+</Window>

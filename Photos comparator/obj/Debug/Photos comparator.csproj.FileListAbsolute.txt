@@ -1,0 +1,78 @@
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\Photos comparator.exe.config
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\Photos comparator.exe
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\Photos comparator.pdb
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.csprojAssemblyReference.cache
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\App.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator_MarkupCompile.cache
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator_MarkupCompile.lref
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\MainWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.g.resources
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos_comparator.Properties.Resources.resources
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.exe
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.pdb
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\System.Drawing.Common.dll
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator.csproj.CopyComplete
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\Author\AuthorAuthorizationWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\Author\AuthorWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\SearchInDatabaseWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\SearchInFolderWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\Author\AuthorAuthorizationWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\Author\AuthorWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\SearchInDatabaseWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\SearchInFolderWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\EntityFramework.dll
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\EntityFramework.xml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Photos comparator_Content.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\ShowSimilarPhotoWindow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\ShowSimilarPhotoWindow.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\UserControlls\InformationAboutImage.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\UserControlls\InformationAboutImage.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\App.baml
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\ProgressBarWidow.g.cs
+C:\Users\maxim\source\repos\Photos comparator\Photos comparator\obj\Debug\Windows\User\ProgressBarWidow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\Photos comparator.exe.config
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\Photos comparator.exe
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\Photos comparator.pdb
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\EntityFramework.dll
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\System.Drawing.Common.dll
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\XnaFan.ImageComparison.dll
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\EntityFramework.xml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.csprojAssemblyReference.cache
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\MainWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\UserControlls\InformationAboutImage.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\Author\AuthorAuthorizationWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\Author\AuthorWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\SearchInDatabaseWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\SearchInFolderWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\ShowSimilarPhotoWindow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\ProgressBarWidow.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\App.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator_Content.g.cs
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator_MarkupCompile.cache
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator_MarkupCompile.lref
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\App.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\MainWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\UserControlls\InformationAboutImage.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\Author\AuthorAuthorizationWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\Author\AuthorWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\SearchInDatabaseWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\SearchInFolderWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\ShowSimilarPhotoWindow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Windows\User\ProgressBarWidow.baml
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.g.resources
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos_comparator.Properties.Resources.resources
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.csproj.GenerateResource.cache
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.csproj.CoreCompileInputs.cache
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.csproj.CopyComplete
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.exe
+C:\Users\maxim\Documents\GitHub\Photos-comparator\Photos comparator\obj\Debug\Photos comparator.pdb
